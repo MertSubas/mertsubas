@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mert Subaş. I live in Turkey. 
+- 👋 Hi, I’m Mert Subaş. 
 
 
 <!---
